@@ -1,9 +1,5 @@
-# pycolmap
-Python interface for COLMAP reconstructions, plus some convenient scripts for
-loading/modifying/converting reconstructions.
-
-This code does not, however, run reconstruction -- it only provides a
-convenient interface for handling COLMAP's output.
+# pycolmap for Numpy 2
+The same good old pycolmap you know but whith a single line changed so numpy 2 doesnt throw an error.
 
 ## Installation
 
